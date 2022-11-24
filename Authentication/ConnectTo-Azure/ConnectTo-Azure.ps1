@@ -1,0 +1,1 @@
+$Session = az login
